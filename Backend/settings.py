@@ -25,9 +25,9 @@ SECRET_KEY = 'django-insecure-$07nqm_y^$7#8s688sn4qrm%7h38w^*t_4qqrglo8%zf34_mn9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = [ 'https:debpay.herokuapp.com', '127.0.0.1']
+# ALLOWED_HOSTS = [ 'https:debpay.herokuapp.com', '127.0.0.1']
 
-
+ALLOWED_HOSTS = ['https://debpay.herokuapp.com/']
 # Application definition
 
 INSTALLED_APPS = [
