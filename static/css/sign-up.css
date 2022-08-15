@@ -120,18 +120,18 @@ label {
 .password {
   width: 100%;
 }
-/* .email {
-  background-image: url("static/assets/email-icon.png");
+.email {
+  background-image: url("../assets/email-icon.png");
   background-position-x: 90%;
   background-position-y: 50%;
   background-repeat: no-repeat;
 }
 .password {
-  background-image: url("static/assets/eye-icon.png");
+  background-image: url("../assets/eye-icon.png");
   background-position-x: 90%;
   background-position-y: 50%;
   background-repeat: no-repeat;
-} */
+}
 .tos--blue {
   color: #007ea7;
 }

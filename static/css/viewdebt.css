@@ -100,8 +100,16 @@ p {
   font-size: 1.2rem;
 }
 
-/* 
 
+
+.form {
+  background-image: url(img/Logo\ Without\ Text\(\ White\ Color\).svg);
+  background-repeat: no-repeat;
+  background-size: 43%;
+  background-position-y: -15em;
+  background-position-x: center;
+  background-color: rgba(204, 229, 237, 0.5);
+}
 
 
 
