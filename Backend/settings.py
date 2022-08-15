@@ -27,7 +27,11 @@ DEBUG = False
 
 # ALLOWED_HOSTS = [ 'https:debpay.herokuapp.com', '127.0.0.1']
 
-ALLOWED_HOSTS = ['https://debpay.herokuapp.com/']
+# ALLOWED_HOSTS = ['https://debpay.herokuapp.com/']
+
+ALLOWED_HOSTS = [".herokuapp.com", ".researchthroughdesign.org"]
+
+
 # Application definition
 
 INSTALLED_APPS = [
