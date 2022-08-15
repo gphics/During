@@ -120,7 +120,7 @@ label {
 .password {
   width: 100%;
 }
-.email {
+/* .email {
   background-image: url("static/assets/email-icon.png");
   background-position-x: 90%;
   background-position-y: 50%;
@@ -131,7 +131,7 @@ label {
   background-position-x: 90%;
   background-position-y: 50%;
   background-repeat: no-repeat;
-}
+} */
 .tos--blue {
   color: #007ea7;
 }
