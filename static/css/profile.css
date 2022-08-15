@@ -343,12 +343,6 @@ h4 {
         font-weight: 700;
     }
 
-    .form {
-        background-image: url('static/img/School\ background.svg');
-        background-repeat: no-repeat;
-        background-size: 165%;
-        padding: 2em 2em;
-    }
 
     span {
         margin-left: 13em;
@@ -389,12 +383,7 @@ h4 {
         font-size: 0.8rem;
     }
     
-    .form {
-        background-image: url('static/img/School\ background.svg');
-        background-repeat: no-repeat;
-        background-size: 348%;
-        padding: 2em 0;
-    }
+
 
     img#img {
         width: 5em;
