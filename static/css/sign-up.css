@@ -121,13 +121,13 @@ label {
   width: 100%;
 }
 .email {
-  background-image: url("../assets/email-icon.png");
+  background-image: url("static/assets/email-icon.png");
   background-position-x: 90%;
   background-position-y: 50%;
   background-repeat: no-repeat;
 }
 .password {
-  background-image: url("../assets/eye-icon.png");
+  background-image: url("static/assets/eye-icon.png");
   background-position-x: 90%;
   background-position-y: 50%;
   background-repeat: no-repeat;
